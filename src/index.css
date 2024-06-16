@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.epr_-4sph0a{
+  height: 360px !important;
+    width: 411px !important;
+    --epr-highlight-color: #007aeb;
+    --epr-hover-bg-color: #f1f8ff;
+    --epr-focus-bg-color: #e0f0ff;
+    --epr-text-color: #858585;
+    --epr-search-input-bg-color: #f6f6f6;
+    --epr-picker-border-color: #e7e7e7;
+    --epr-bg-color: #fff;
+    --epr-category-icon-active-color: #6aa8de;
+    --epr-skin-tone-picker-menu-color: #ffffff95;
+    --epr-horizontal-padding: 10px;
+    --epr-picker-border-radius: 8px;
+    --epr-search-border-color: var(--epr-highlight-color);
+    --epr-header-padding: 15px var(--epr-horizontal-padding);
+    --epr-active-skin-tone-indicator-border-color: var(--epr-highlight-color);
+    --epr-active-skin-hover-color: var(--epr-hover-bg-color);
+    --epr-search-input-bg-color-active: var(--epr-search-input-bg-color);
+    --epr-search-input-padding: 0 30px;
+    --epr-search-input-border-radius: 8px;
+    --epr-search-input-height: 40px;
+    --epr-search-input-text-color: var(--epr-text-color);
+    --epr-search-input-placeholder-color: var(--epr-text-color);
+    --epr-search-bar-inner-padding: var(--epr-horizontal-padding);
+    --epr-category-navigation-button-size: 30px;
+    --epr-emoji-variation-picker-height: 45px;
+    --epr-emoji-variation-picker-bg-color: var(--epr-bg-color);
+    --epr-preview-height: 70px;
+    --epr-preview-text-size: 14px;
+    --epr-preview-text-padding: 0 var(--epr-horizontal-padding);
+    --epr-preview-border-color: var(--epr-picker-border-color);
+    --epr-preview-text-color: var(--epr-text-color);
+    --epr-category-padding: 0 var(--epr-horizontal-padding);
+    --epr-category-label-bg-color: #ffffffe6;
+    --epr-category-label-text-color: var(--epr-text-color);
+    --epr-category-label-padding: 0 var(--epr-horizontal-padding);
+    --epr-category-label-height: 40px;
+    --epr-emoji-size: 30px;
+    --epr-emoji-padding: 5px;
+    --epr-emoji-fullsize: calc(var(--epr-emoji-size) + var(--epr-emoji-padding) * 2);
+    --epr-emoji-hover-color: var(--epr-hover-bg-color);
+    --epr-emoji-variation-indicator-color: var(--epr-picker-border-color);
+    --epr-emoji-variation-indicator-color-hover: var(--epr-text-color);
+    --epr-header-overlay-z-index: 3;
+    --epr-emoji-variations-indictator-z-index: 1;
+    --epr-category-label-z-index: 2;
+    --epr-skin-variation-picker-z-index: 5;
+    --epr-preview-z-index: 6;
+    --epr-dark: #000;
+    --epr-dark-emoji-variation-picker-bg-color: var(--epr-dark);
+    --epr-dark-highlight-color: #c0c0c0;
+    --epr-dark-text-color: var(--epr-highlight-color);
+    position: absolute !important;
+    top: 50vh !important;
+    left: 60vw !important;
+    --epr-dark-hover-bg-color: #363636f6;
+    --epr-dark-focus-bg-color: #474747;
+    --epr-dark-search-input-bg-color: #333333;
+    --epr-dark-category-label-bg-color: #222222e6;
+    --epr-dark-picker-border-color: #151617;
+    --epr-dark-bg-color: #222222;
+    --epr-dark-search-input-bg-color-active: var(--epr-dark);
+    --epr-dark-emoji-variation-indicator-color: #444;
+    --epr-dark-category-icon-active-color: #3271b7;
+    --epr-dark-skin-tone-picker-menu-color: #22222295;
+}
